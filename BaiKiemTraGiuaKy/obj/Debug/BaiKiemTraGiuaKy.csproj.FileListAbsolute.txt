@@ -1,0 +1,30 @@
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.exe.config
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.exe
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.pdb
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.Form1.resources
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.Properties.Resources.resources
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemT.35E98776.Up2Date
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.exe
+C:\Users\ACER\source\repos\Buổi 7\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.pdb
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.exe.config
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.exe
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\BaiKiemTraGiuaKy.pdb
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.Form1.resources
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.Properties.Resources.resources
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemT.35E98776.Up2Date
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.exe
+C:\Users\ACER\source\repos\DoAnhKiet_2280601617\BaiKiemTraGiuaKy\obj\Debug\BaiKiemTraGiuaKy.pdb
